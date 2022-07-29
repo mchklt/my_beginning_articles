@@ -35,7 +35,7 @@ RFID tag internal looks like
 
 **RFID** *(radiofrequency identification)*. is a technology in which identification of the products/items/objects is being done by radio frequencies (Antenna).
 ## How does it work ?
-<center><img src="https://www.researchgate.net/publication/312442723/figure/fig2/AS:500486312214529@1496336643626/Working-principle-of-RFID-system.png"></center>
+<center><img src="https://ibb.co/StR4jJn"></center>
 
 **RFID reader** sends continuous radio frequencies from the device this makes the process highly simple and easy as, then after coming in a specific distance from the RFID reader, the RFID tags send the message to the RFID reader.
 
