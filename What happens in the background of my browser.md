@@ -3,7 +3,7 @@
 
 in your browser background happens many operations to provide a protected environment let's know what happens .
  
-First let's know some knowledges :
+First we need know some knowledges :
 
 ## Secure Sockets Layer (ssl) certificate
 
