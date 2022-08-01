@@ -22,14 +22,17 @@ First let's know some knowledges :
 >this type include only one secret key to cipher and decipher information. symmetric encryption is an old and best-known technique. It uses a secret key that can be a number, a word or a string of random letters. It is a blended with the plain text of a message to change the content in a particular way.
 
 *example:*
-![](https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Symmetric-Encryption.png)
+
+![encryption](https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Symmetric-Encryption.png)
 
 **Asymmetric Encryption**
 
 > asymmetric encryption uses two keys to encrypt a plain text. one key is called the private key and the other key is called the public key. anything encrypted with the public key can only be decrypted with the private key; a public key cannot decrypt data if it was used to encrypt the data—only the private key can unlock that data.
 
 *example:*
-![](https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Asymmetric-Encryption.png)
+
+![encryption](https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Asymmetric-Encryption.png)
+
 # What happens in the background of browsing 
 let's know what happens in your browser background when you visit a website using a ssl certificate,
 
